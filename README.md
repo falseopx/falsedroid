@@ -1,2 +1,2 @@
-# falsedroid
- Open-Sourced AIO Discord Bot
+# FalseDroid 
+Open-Sourced Multi-Purpose Discord Bot
